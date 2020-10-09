@@ -1,0 +1,63 @@
+body {
+  background-color: beige;
+  margin: auto;
+  width: 700px;
+}
+
+nav {
+  background-color: lightblue;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  padding: 0 20px;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #388659;
+}
+
+p {
+  color: #685044;
+}
+
+a {
+  color: #4D9DE0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #003C6B;
+  font-weight: bold;
+}
+
+strong {
+  color: #3A405A;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.cat-photos {
+  width: 150px;
+  margin: 0 20px;
+}
+
+.photos {
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  width: 200px;
+}
+
+.courses {
+  width: 70%;
+  margin: auto;
+}
